@@ -8,6 +8,8 @@ All the files here have been contributed by other users, here you will find a gu
 
 **IF YOU AREN'T COMFORTABLE MODDING YOUR PHONE OR ITS PARTITION TABLE OR YOU ARE PARANOID OF BRICKING YOUR DEVICE CLICK AWAY NOW!!! YOU HAVE BEEN WARNED, YOU ARE ON YOUR OWN IF YOU BRICK YOUR DEVICE!!! AGAIN! YOU HAVE BEEN WARNED!!!**
 
+> This flashing will erase data
+
 ### Installing Windows
 > install recovery
 Use recovery that can decrypt data
