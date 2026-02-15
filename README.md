@@ -21,7 +21,7 @@ or Manually reboot the phone to recovery
 ```
 > download Windows and recovey rom
 - [Windows on ARM image（have drivers）](https://www.123912.com/s/lGrLjv-hgFk)
-- [recovery rom]()
+- [recovery rom](https://github.com/py963963yp/flash-Windows/tree/main/安装.zip)
 
 > change recovery rom and type what allocate of storage
 
