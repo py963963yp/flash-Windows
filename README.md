@@ -21,7 +21,7 @@ adb reboot recovery
 ```cmd
 or Manually reboot the phone to recovery
 ```
-> download Windows and recovey rom
+> download Windows to /sdcard and recovey rom
 - [Windows on ARM image（have drivers）](https://www.123912.com/s/lGrLjv-hgFk)
 - [recovery rom](https://github.com/py963963yp/flash-Windows/releases/tag/v1)
 
